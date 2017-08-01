@@ -1,0 +1,32 @@
+html, body{
+	min-height:100%;
+}
+
+body{
+	background: linear-gradient(yellow,limegreen);
+}
+
+.center{
+	text-align: center;
+}
+
+#main{
+	background: #00e6e6;
+	margin: 2%;
+	color:grey;
+}
+
+h1{
+	padding-top:30px;
+}
+
+.well{
+	margin: 0 auto;
+	max-width: 380px;
+	max-height: 290px;
+}
+
+#tdlist{
+	text-align: left;
+}
+
